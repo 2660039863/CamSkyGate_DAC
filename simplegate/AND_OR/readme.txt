@@ -1,1 +1,1 @@
-This folder includes the video of simple CamSkyGate funtions between AND and OR
+This folder includes the simulation videos of simple CamSkyGate funtions between AND and OR
